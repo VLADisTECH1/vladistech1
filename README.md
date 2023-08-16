@@ -1,8 +1,37 @@
-## Welcome to my GitHub 👋
+# Hi! Welcome to my GitHub 👋
 
-About Me  
+## About Me  
 - 🔭 I'm working towards a bachelor's degree in Computer Science
-- 💙 I'm passionate about data and databases
+- 💙 I'm passionate about computer hardwre, data and databases
 - 🌱 I've been learning lots of new computer languages.
 - 📫 How to reach me: Reach me at my LinkedIn
 - ⚡ Fun fact: I pay piano
+
+## Skills
+- SQL
+- MySQL
+- MongoDB
+- Java
+- Javascript
+- HTML
+- C++
+
+## Recent Projects
+
+### 
+## - [Speed Game](https://github.com/jessicacaron/Redacted_Speed_Game/tree/Version-2.0)
+<img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/SpeedPic2Lobby.jpg">
+
+## - [Four in a Row](https://github.com/VLADisTECH1/FourInARow)
+<img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/fourinarowDemo1.gif">
+
+## - [MERN Authentication](https://github.com/VLADisTECH1/MernAuthentication)
+<img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/AuthenticationDemo1.gif">
+
+## - [Real Time Messaging](https://github.com/VLADisTECH1/RealtimeChat)
+<img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/RealTimeMessagingDemo1.gif">
+
+##
+
+
+
