@@ -18,7 +18,7 @@
 
 ## Recent Projects
 
-### 
+###  
 ## - [Speed Game](https://github.com/jessicacaron/Redacted_Speed_Game/tree/Version-2.0)
 <img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/SpeedPic2Lobby.jpg">
 
@@ -31,7 +31,6 @@
 ## - [Real Time Messaging](https://github.com/VLADisTECH1/RealtimeChat)
 <img width="500" alt="Screenshot" src="https://vladistech1.github.io/images/RealTimeMessagingDemo1.gif">
 
-##
 
 
 
