@@ -5,15 +5,16 @@
 - 💙 I'm passionate about computer hardware, data and databases
 - 🌱 I've been learning lots of new computer languages.
 - 📫 How to reach me: Reach me at my LinkedIn
-- ⚡ Fun fact: I pay piano
+- ⚡ Fun fact: I play piano
 
 ## Skills
-- SQL
+- MSSQL
 - MySQL
 - MongoDB
 - Java
 - Javascript
 - HTML
+- CSS
 - C++
 
 ## Recent Projects
